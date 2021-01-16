@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django-crispy-forms = "*"
+django-markdown-deux = "*"
+django-pagedown = "*"
+djangorestframework = "*"
+django-filter = "*"
+markdown2 = "*"
+django-cors-headers = "*"
+Django = "*"
+Pillow = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
